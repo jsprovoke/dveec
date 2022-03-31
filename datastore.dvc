@@ -1,0 +1,5 @@
+outs:
+- md5: 4a9e3f3b9f6ece36e2fb134faf4e73e0.dir
+  size: 130236
+  nfiles: 1
+  path: datastore
